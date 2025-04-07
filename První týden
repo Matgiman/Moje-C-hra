@@ -3,12 +3,12 @@ int main() {
     cout << "Tvym ukolem je dostat se nahoru, kde sidli hlavni boss Vextile.\n";
     cout << "Ten utiskuje okolni vesnice a chrani ho 16 monster.\n";
     cout << "Mezi nimi jsou i dva mini bossove, bratri Vexove.\n";
-    cout << "Musis je vsechny porazit a zachranit svet.\n\n";
+    cout << "Musis je vsechny porazit a zachranit vesnice.\n\n";
 
-    cout << "Za kazde monstrum ziskas zkusenosti, manu a penize.\n";
-    cout << "Ty pak pouzijes ve vesnici na vylepseni schopnosti.\n\n";
+    cout << "Za kazde monstrum ziskas zkusenosti, manu a zlato.\n";
+    cout << "Ty pak pouzijes ve vesnici na vylepseni tvych schopnosti.\n\n";
 
-    cout << "Postava:\n";
+    cout << " Tvoje Postava:\n";
     cout << "- Jmeno: Hrdina\n";
     cout << "- Zivoty: 5/10\n";
     cout << "- Mana: 1/10\n";
